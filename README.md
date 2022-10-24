@@ -14,9 +14,11 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chinmay-03&theme=dark" alt="Chinmay Kotkar" /></p>
   </div>
-[![@chinmayk's Holopin board](https://holopin.me/chinmayk)](https://holopin.io/@chinmayk)
-
-
+  
+ 
+<div align="center">
+<img width="706" alt="image" src="https://user-images.githubusercontent.com/102941004/197554733-3bd9ff96-4211-4f0e-b9e5-bf434d5a98f6.png">
+</div>
 <!---
 Chinmay-03/Chinmay-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
