@@ -14,6 +14,7 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chinmay-03&theme=dark" alt="Chinmay Kotkar" /></p>
   </div>
+[![@chinmayk's Holopin board](https://holopin.me/chinmayk)](https://holopin.io/@chinmayk)
 
 
 <!---
