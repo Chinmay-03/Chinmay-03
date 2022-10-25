@@ -56,6 +56,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chinmay-03&label=Profile%20views&color=0e75b6&style=flat" alt="Chinmay-03" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chinmay-03" alt="Chinmay-03" /></a> </p>
 
+###
+<div align="center">
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ankurg132/ankurg132/output/snake.svg" alt="Snake animation" />
+</div>
+###
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Chinmay-03&show_icons=true&theme=dark&locale=en" alt="Chinmay Kotkar" /></td>
