@@ -11,7 +11,13 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Chinmay-03&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
+
+
 ## ⚡ Technologies
+
+<p align="center">
+  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> <br>
+<br>
 
 ### Language :
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
@@ -50,6 +56,9 @@
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) -->
 <!-- ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure) -->
 
+<p align="center">
+  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> <br>
+<br>
 
 [![@chinmayk's Holopin board](https://holopin.me/chinmayk)](https://holopin.io/@chinmayk)
 
