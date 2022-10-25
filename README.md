@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on personel projects/ opensource ideas / or anything intresting
 - 📫 How to reach me https://linktr.ee/chinmay_kotkar
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Chinmay_kotkar?style=social)](https://twitter.com/intent/follow?screen_name=Chinmay__K8) 
 [![Linkedin Badge](https://img.shields.io/badge/-Chinmay.Kotkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinmaykotkar/)](https://www.linkedin.com/in/chinmaykotkar/)
 [![Instagram Badge](https://img.shields.io/badge/-Chinmay.Kotkar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/chinmay_k003/)](https://www.instagram.com/chinmay_k003/)
 
