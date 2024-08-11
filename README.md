@@ -75,8 +75,8 @@
 <img src="https://raw.githubusercontent.com/ankurg132/ankurg132/output/snake.svg" alt="Snake animation" />
 </div>
 ###
-
-<table>
+<!-- <span><a href="https://wakatime.com/@chinmaykotkar"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=MalikBagwala&layout=compact&theme=shades-of-purple&langs_count=6" /></a></span>
+<table> -->
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Chinmay-03&show_icons=true&theme=dark&locale=en" alt="Chinmay Kotkar" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chinmay-03&show_icons=true&theme=dark&locale=en&layout=compact" alt="Chinmay Kotkar" /></td>
